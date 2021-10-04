@@ -149,7 +149,7 @@
 
     #newsletterContainer input:focus{
         border: solid 1px #8c8c8c;
-        background-color: #000000;
+        background-color: rgb(32, 178, 117);
         transition: all 0.5s ease;
     }
 

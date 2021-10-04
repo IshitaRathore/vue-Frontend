@@ -9,7 +9,13 @@
       "src": "/public/logo-144.png",
       "sizes": "144x144",
       "type": "image/png"
-    }, {
+    }, 
+    {
+      "src": "/public/imperium logo.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
       "src": "/public/logo-152.png",
       "sizes": "152x152",
       "type": "image/png"

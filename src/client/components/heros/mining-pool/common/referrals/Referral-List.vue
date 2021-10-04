@@ -44,12 +44,12 @@
 
                     <div class="mobileTableShow">
                         <span class="mobileTableShowTitle">Next Reward:</span>
-                        <span class="time">{{getNextReward(element) }} WEBD</span>
+                        <span class="time">{{getNextReward(element) }} IDLL</span>
                     </div>
 
                     <div class="mobileTableShow">
                         <span class="mobileTableShowTitle">Sent Reward:</span>
-                        <span class="minedBy">{{getSentReward(element)}} WEBD</span>
+                        <span class="minedBy">{{getSentReward(element)}} IDLL</span>
                     </div>
 
                 </div>
@@ -61,7 +61,7 @@
         <div v-if="this.referralData.referees === undefined">
 
             <span class="warningTitle">You don't have referrals yet</span>
-            <span> You can earn WEBD only by inviting your friends to mine in the current selected pool. </span>
+            <span> You can earn IDLL only by inviting your friends to mine in the current selected pool. </span>
 
             <p class="copyPoolLink buttonReff" @click="copyToClipboard">
                 Copy Referral Link

@@ -17,22 +17,22 @@
 
                 <div class="dataStatisticsItem">
                     <span class="titlePool" title="Your reward at next block mined by pool">NB Reward:</span>
-                    <span class="minerData">{{this.pool.hashrate}} WEBD</span>
+                    <span class="minerData">{{this.pool.hashrate}} IDLL</span>
                 </div>
 
                 <div class="dataStatisticsItem">
                     <span class="titlePool" title="All yours miners reward at next block mined by your pool">NB Miner Reward:</span>
-                    <span class="minerData">{{this.pool.NextBlockMinerReward}} WEBD</span>
+                    <span class="minerData">{{this.pool.NextBlockMinerReward}} IDLL</span>
                 </div>
 
                 <div class="dataStatisticsItem">
                     <span class="titlePool" title="All your servers reward at next block mined by your pool">NB Servers Reward:</span>
-                    <span class="minerData">{{this.pool.NextBlockServerReward}} WEBD</span>
+                    <span class="minerData">{{this.pool.NextBlockServerReward}} IDLL</span>
                 </div>
 
                 <div class="dataStatisticsItem" title="Aproximed time to wait until your pool will mine the next block">
                     <span class="titlePool">NB Mining Time:</span>
-                    <span class="minerData">{{this.pool.hashs}} WEBD</span>
+                    <span class="minerData">{{this.pool.hashs}} IDLL</span>
                 </div>
 
                 <!--                <div class="dataStatisticsItem">

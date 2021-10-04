@@ -11,7 +11,7 @@
                 <div>Likes</div>
                 <div>Comments</div>
                 <div>Score</div>
-                <div>Reward WEBD</div>
+                <div>Reward IDLL</div>
             </div>
 
             <a v-for="(element, index) in list" :key="'InstagramRankingListElement '+index" class="listElement instagramElement" :href="element.url" rel="noopener" target="_blank">
@@ -37,7 +37,7 @@
                     <div>{{element.score !== undefined ? element.score.toFixed(2) : 'na'}}</div>
                 </div>
                 <div class="mobileTableShow">
-                    <span class="mobileTableShowTitle">Reward WEBD:</span>
+                    <span class="mobileTableShowTitle">Reward IDLL:</span>
                     <div class="score">{{element.reward !== undefined ? element.reward.toFixed(2) : 'na'}}</div>
                 </div>
 

@@ -41,7 +41,7 @@
         <b>Bounty round:</b>
         <div style="display: inline-block">
           <select id="poolConnectionSelect" class="poolSelect" @change="handleChange($event)">
-            <option v-for="(elem, index) in this[this.type].bounties" class="poolSelectOption">
+            <option v-bind="(elem, index) in this[this.type].bounties" class="poolSelectOption">
               {{elem.name}}
             </option>
           </select>

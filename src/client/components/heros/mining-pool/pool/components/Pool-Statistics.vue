@@ -70,7 +70,7 @@
         <div class='stat-box'>
             <div v-if="this.statsType === 'miner'">
                 <p class="stat-box-small">Your Ref. Potential Reward: </p>
-                <p class="normalSpan" :class="this.isNotNullColor"> {{this.referralPotential}} WEBD</p>
+                <p class="normalSpan" :class="this.isNotNullColor"> {{this.referralPotential}} IDLL</p>
             </div>
         </div>
 

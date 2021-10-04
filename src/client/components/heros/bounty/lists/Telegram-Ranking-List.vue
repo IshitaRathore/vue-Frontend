@@ -12,7 +12,7 @@
                 <div>Invited members</div>
                 <div>Messages</div>
                 <div>Score</div>
-                <div>Reward WEBD</div>
+                <div>Reward IDLL</div>
             </div>
 
             <div class="listElement telegramElement" v-for="(element, index) in this.list" :key="'TelegramRankingListElement '+index">
@@ -38,7 +38,7 @@
                     <div>{{element.score !== undefined ? element.score.toFixed(2) : 'na'}}</div>
                 </div>
                 <div class="mobileTableShow">
-                    <span class="mobileTableShowTitle">Reward WEBD:</span>
+                    <span class="mobileTableShowTitle">Reward IDLL:</span>
                     <div class="score">{{element.reward !== undefined ? element.reward.toFixed(2) : 'na'}}</div>
                 </div>
 

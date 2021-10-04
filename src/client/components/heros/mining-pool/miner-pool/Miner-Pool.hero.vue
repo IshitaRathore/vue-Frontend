@@ -32,7 +32,7 @@
                         <div class='stat-box'>
                             <span style="text-align:center">
                                 <p class="stat-box-small">Referral Reward:</p><br>
-                                <p :class="this.isNotNullColor"> {{this.poolReferralFee}}% WEBD</p>
+                                <p :class="this.isNotNullColor"> {{this.poolReferralFee}}% IDLL</p>
                                 <p class="stat-box-small">from each friend you invite</p>
                                 <!--Being confirmed: <span class="normalSpan" :class="this.isNotNullColor"> {{this.poolBlocksBeingConfirmed}} </span> Unconfirmed <span class="normalSpan" :class="this.isNotNullColor"> {{this.poolBlocksUnconfirmed}} </span>-->
                             </span>

@@ -42,10 +42,10 @@
                   </ul>
                 </div>
               </div>
-              <span class="teamName">WebD Timi</span>
+              <span class="teamName">IDLL Timi</span>
               <span class="teamRole">Crypto Exchange</span>
               <p class="description">
-                Our mission is to deliver a 24/7 service for buying and selling WebD in the easiest way possible, with ins and outs via the most common fiat currencies among the WebDollar community members.
+                Our mission is to deliver a 24/7 service for buying and selling WebD in the easiest way possible, with ins and outs via the most common fiat currencies among the Imperium community members.
               </p>
             </div>
 
@@ -83,7 +83,7 @@
               <span class="teamName">VinDAX</span>
               <span class="teamRole">Crypto Exchange</span>
               <p class="description">
-                VinDAX provides an innovative live trading platform where you can instantly buy or sale cryptocurrencies like Bitcoin, WebDollar, Bitcoin Cash, Litecoin and Zcash at best prices, in a secure easy to use eco-system.
+                VinDAX provides an innovative live trading platform where you can instantly buy or sale cryptocurrencies like Bitcoin, Imperium, Bitcoin Cash, Litecoin and Zcash at best prices, in a secure easy to use eco-system.
               </p>
             </div>
 
@@ -97,10 +97,10 @@
                   </ul>
                 </div>
               </div>
-              <span class="teamName">WebDollar Tip Bot</span>
+              <span class="teamName">Imperium Tip Bot</span>
               <span class="teamRole">Telegram bot for making tips, buying, and staking</span>
               <p class="description">
-                 Buy WEBD with your card or PayPal directly from your Telegram account. The amount you purchase is going to be credited instantly to your bot balance after you complete the payment.
+                 Buy IDLL with your card or PayPal directly from your Telegram account. The amount you purchase is going to be credited instantly to your bot balance after you complete the payment.
               </p>
             </div>
 
@@ -523,7 +523,7 @@
 
             <div>
               <div class="team-pic">
-                <a href="http://www.webdollar.shop/" target="_blank"> <span class="business-name">Webd.Shop</span></a>
+                <a href="http://www.webdollar.shop/" target="_blank"> <span class="business-name">IDLL.Shop</span></a>
                 <div class="partners-box">
                 </div>
               </div>

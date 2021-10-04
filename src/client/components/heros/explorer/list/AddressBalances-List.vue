@@ -97,7 +97,7 @@
                                 var balance = data.datasets[tooltipItems.datasetIndex].data[tooltipItems.index];
                                 var address = data.labels[tooltipItems.index];
                                 balance = Utils.formatMoneyNumber(balance);
-                                return address + ' - ' + balance+' WEBD';
+                                return address + ' - ' + balance+' IDLL';
                             }
                         }
                     }

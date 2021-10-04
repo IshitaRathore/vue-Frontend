@@ -8,47 +8,47 @@
 
             <div class="faqSection">
 
-                <collapse-faq :selected="false" ref="WhatIsWebDollar">
+                <collapse-faq :selected="false" ref="WhatIsImperium">
                     <div slot="collapse-header">
-                        What is WebDollar?
+                        What is Imperium?
                     </div>
                     <div slot="collapse-body">
-                        WebDollar is a browser based digital currency. The main advantages to it, are that WebDollars can be mined in your browser and you can transfer funds by storing the wallets locally, without using third parties.
+                        Imperium is a browser based digital currency. The main advantages to it, are that Imperium can be mined in your browser and you can transfer funds by storing the wallets locally, without using third parties.
                     </div>
                 </collapse-faq>
 
-                <collapse-faq :selected="false" ref="WhatsItLikeUsingWebDollar">
+                <collapse-faq :selected="false" ref="WhatsItLikeUsingImperium">
                     <div slot="collapse-header">
-                        What's it like using WebDollar?
+                        What's it like using Imperium?
                     </div>
                     <div slot="collapse-body">
-                        WebDollar is a peer to peer (p2p) currency which is native to the internet. The WebDollar protocol and blockchain were designed to be light and to work without the installation of any additional software or plugins for wallets or mining. A mini-blockchain is downloaded directly into your browser, while your wallet is securely stored and encrypted directly into your computer. Full consensus is achieved in a matter of seconds by using a novel PPoW - Proofs of Proof of Work algorithm to allow light nodes to check the balance and validate transactions in a matter of seconds. Being native to the internet, WebDollar is enabling miners to start mining with a click of a button.
+                        Imperium is a peer to peer (p2p) currency which is native to the internet. The Imperium protocol and blockchain were designed to be light and to work without the installation of any additional software or plugins for wallets or mining. A mini-blockchain is downloaded directly into your browser, while your wallet is securely stored and encrypted directly into your computer. Full consensus is achieved in a matter of seconds by using a novel PPoW - Proofs of Proof of Work algorithm to allow light nodes to check the balance and validate transactions in a matter of seconds. Being native to the internet, Imperium is enabling miners to start mining with a click of a button.
                     </div>
                 </collapse-faq>
 
-                <collapse-faq :selected="false" ref="WhatsValueOfWebDollarInFiatCurrency">
+                <collapse-faq :selected="false" ref="WhatsValueOfImperiumInFiatCurrency">
                     <div slot="collapse-header">
-                        What’s the value of WebDollar in FIAT (conventional) currency?
+                        What’s the value of Imperium in FIAT (conventional) currency?
                     </div>
                     <div slot="collapse-body">
                         The value is based on the demand and supply imposed by the market. The price was and is currently set by the market.                    </div>
                 </collapse-faq>
 
-                <collapse-faq :selected="false" ref="WhatAreRisksOfMiningWebDollarInBrowser">
+                <collapse-faq :selected="false" ref="WhatAreRisksOfMiningImperiumInBrowser">
                     <div slot="collapse-header">
-                        What are the risks of mining WebDollar in my browser?
+                        What are the risks of mining Imperium in my browser?
                     </div>
                     <div slot="collapse-body">
-                        There is no risk involved in using WebDollar, but you can expect some latency on your browser, especially if you increase the number of threads used. We recommend using the level 1 thread while you are working on your PC, and increase it when you are away. Likewise, the battery of your device will drain faster and on POW rounds your electricity consumption will slightly increase according to the number of threads that you are using.
+                        There is no risk involved in using Imperium, but you can expect some latency on your browser, especially if you increase the number of threads used. We recommend using the level 1 thread while you are working on your PC, and increase it when you are away. Likewise, the battery of your device will drain faster and on POW rounds your electricity consumption will slightly increase according to the number of threads that you are using.
                     </div>
                 </collapse-faq>
 
-                <collapse-faq :selected="false" ref="HowIsWebDollarDifferent">
+                <collapse-faq :selected="false" ref="HowIsImperiumDifferent">
                     <div slot="collapse-header">
-                        How is WebDollar different, when compared to other cryptocurrencies?
+                        How is Imperium different, when compared to other cryptocurrencies?
                     </div>
                     <div slot="collapse-body">
-                        WebDollar is the easiest and fastest way to use cryptocurrencies. You don’t need technical knowledge or dedicated hardware resources. WebDollar aims to make mining available for every laptop and smartphone, which is why we migrated to a hybrid POS 90% (Proof Of Stake) and POW 10% (Proof Of Work) system where is more important the amount you keep at stake, instead of the power your hardware has. POW is then using the Argon2d algorithm which makes mining with special hardware unprofitable because it is ASIC resistant and GPU unfriendly. We want to give everyone the opportunity to mine and take part in the new world of cryptocurrency.                    </div>
+                        Imperium is the easiest and fastest way to use cryptocurrencies. You don’t need technical knowledge or dedicated hardware resources. Imperium aims to make mining available for every laptop and smartphone, which is why we migrated to a hybrid POS 90% (Proof Of Stake) and POW 10% (Proof Of Work) system where is more important the amount you keep at stake, instead of the power your hardware has. POW is then using the Argon2d algorithm which makes mining with special hardware unprofitable because it is ASIC resistant and GPU unfriendly. We want to give everyone the opportunity to mine and take part in the new world of cryptocurrency.                    </div>
                 </collapse-faq>
 
                 <collapse-faq :selected="false" ref="WhereAreTheWalletsStored">
@@ -61,10 +61,10 @@
 
                 <collapse-faq :selected="false" ref="SupportSmartContracts">
                     <div slot="collapse-header">
-                        Does WebDollar support smart contracts?
+                        Does Imperium support smart contracts?
                     </div>
                     <div slot="collapse-body">
-                        In the near future WebDollar will incorporate a native smart contract system.
+                        In the near future Imperium will incorporate a native smart contract system.
                     </div>
                 </collapse-faq>
 
@@ -73,7 +73,7 @@
                         Why did my balance switched to 0?
                     </div>
                     <div slot="collapse-body">
-                        If you had no available balance before, this may be caused by the fact that you were connected to another pool and the potential balance from the previous pool is not displayed anymore. You will still receive the WEBD mined in the previous pool.                    </div>
+                        If you had no available balance before, this may be caused by the fact that you were connected to another pool and the potential balance from the previous pool is not displayed anymore. You will still receive the IDLL mined in the previous pool.                    </div>
                 </collapse-faq>
 
                 <collapse-faq :selected="false" ref="WhatIsPotentialBalance">
@@ -99,7 +99,7 @@
                         What's the percentage for hybrid mining PoS + PoW ?
                     </div>
                     <div slot="collapse-body">
-                        WebDollar's mining percentage is split between 90% PoS rounds and 10% PoW rounds.
+                        Imperium's mining percentage is split between 90% PoS rounds and 10% PoW rounds.
                     </div>
                 </collapse-faq>
 
@@ -108,7 +108,7 @@
                         What is PoW ?
                     </div>
                     <div slot="collapse-body">
-                        Proof of Work is the way to mine new coins using your computer's CPU power. The more powerful and numerous your mining computers are, the more WebDollars you earn.
+                        Proof of Work is the way to mine new coins using your computer's CPU power. The more powerful and numerous your mining computers are, the more Imperiums you earn.
                     </div>
                 </collapse-faq>
 
@@ -126,23 +126,23 @@
                         Can I mine in PoS rounds from scratch or do I need to buy in order to stake?
                     </div>
                     <div slot="collapse-body">
-                        If you're mining from scratch you won't be able to earn coins. You need to have an amount of WebDollars (100 WEBD) first to stake with, in the PoS rounds.
+                        If you're mining from scratch you won't be able to earn coins. You need to have an amount of Imperium (100 IDLL) first to stake with, in the PoS rounds.
                     </div>
                 </collapse-faq>
 
-                <collapse-faq :selected="false" ref="IsWebDollarAToken">
+                <collapse-faq :selected="false" ref="IsImperiumAToken">
                     <div slot="collapse-header">
-                        Is WebDollar a token?
+                        Is Imperium a token?
                     </div>
                     <div slot="collapse-body">
-                        WebDollar is not a token. WebDollar is working on its proprietary technology. EDUCATIONAL MOMENT: Unfortunately, cryptocurrency investors do tend to invest in tokens that have absolutely no backing other than a conceptual description. Over time, cryptocurrency investors unaware of this fact, have been investing huge amounts of money into these type of projects that have proven nothing else but good marketing skills. And therefore, the lack of technical developing skills of the teams behind those projects has lead to a dramatic price drop of the said coins or tokens which, in turn has left the investors high and dry, aka without their hard earned investment money.
+                        Imperium is not a token. Imperium is working on its proprietary technology. EDUCATIONAL MOMENT: Unfortunately, cryptocurrency investors do tend to invest in tokens that have absolutely no backing other than a conceptual description. Over time, cryptocurrency investors unaware of this fact, have been investing huge amounts of money into these type of projects that have proven nothing else but good marketing skills. And therefore, the lack of technical developing skills of the teams behind those projects has lead to a dramatic price drop of the said coins or tokens which, in turn has left the investors high and dry, aka without their hard earned investment money.
 
                     </div>
                 </collapse-faq>
 
                 <collapse-faq :selected="false" ref="CompatibleBrowsers">
                     <div slot="collapse-header">
-                        Which browsers are compatible with WebDollar?
+                        Which browsers are compatible with Imperium?
                     </div>
                     <div slot="collapse-body">
                         Chrome, Firefox, Opera, Edge and others.
@@ -164,36 +164,36 @@
 
                 <collapse-faq :selected="false" ref="HowAreWEBDsCreated">
                     <div slot="collapse-header">
-                        How are WEBD's created?
+                        How are IDLL's created?
                     </div>
                     <div slot="collapse-body">
                         The coins are created by mathematical algorithms using a hybrid mining process. The mining program is using your computer's CPU resources in POW (Proof Of Work) rounds and staking your already mined coins in POS (Proof Of Stake) hybrid rounds.
                     </div>
                 </collapse-faq>
 
-                <collapse-faq :selected="false" ref="WhatCanIDoWithWebDollars">
+                <collapse-faq :selected="false" ref="WhatCanIDoWithImperiums">
                     <div slot="collapse-header">
-                        What can I do with WebDollars?
+                        What can I do with Imperiums?
                     </div>
                     <div slot="collapse-body">
-                        WebDollar is meant to be used as you would use just about any other currency: paying for products online, trading for goods, trading in for other currencies. In addition, WebDollar can be used for cross border payments with no currency exchange fees. The community around the open source project, WebDollar, is continuously building the ecosystem.                    </div>
-                </collapse-faq>
+                       Imperium is meant to be used as you would use just about any other currency: paying for products online, trading for goods, trading in for other currencies. In addition,  can be used for cross border payments with no currency exchange fees. The community around the open source project, Imperium, is continuously building the ecosystem.                    </div>
+                </collapse-faq>Imperium
 
-                <collapse-faq :selected="false" ref="HowCanIGetWebDollars">
+                <collapse-faq :selected="false" ref="HowCanIGetImperiums">
                     <div slot="collapse-header">
-                        How can I get WebDollars?
+                        How can I get Imperiums?
                     </div>
                     <div slot="collapse-body">
-                        1. You can mine them directly in your browser. 2. You can invite others to mine and refer you to get some rewards. 3. You can buy from the exchanges. 4. You can become a part of our bounty hunt program on https://webdollar.io/bounties.
+                        1. You can mine them directly in your browser. 2. You can invite others to mine and refer you to get some rewards. 3. You can buy from the exchanges. 4. You can become a part of our bounty hunt program on https://Imperium.io/bounties.
                     </div>
                 </collapse-faq>
 
                 <collapse-faq :selected="false" ref="HowMuchWebdEarnIn24HoursMining">
                     <div slot="collapse-header">
-                        How much WebDollars (WEBD) can I earn in 24 hours of mining?
+                        How much Imperiums (IDLL) can I earn in 24 hours of mining?
                     </div>
                     <div slot="collapse-body">
-                        The amount of WEBD's that you can mine in 24 hours is solely based on the computational power of your devices & your mined coins stake and it is directly proportional to the power of the entire network.
+                        The amount of IDLL's that you can mine in 24 hours is solely based on the computational power of your devices & your mined coins stake and it is directly proportional to the power of the entire network.
                     </div>
                 </collapse-faq>
 
@@ -202,15 +202,15 @@
                         How are the wallets secured?
                     </div>
                     <div slot="collapse-body">
-                        The wallets are stored directly into your browser, avoiding third parties. Your browser is the only one that is storing your wallet. NOTE: Like with any other coin or token, if you lose your wallet's recovery password, your WebDollars will be locked for ever.                     </div>
+                        The wallets are stored directly into your browser, avoiding third parties. Your browser is the only one that is storing your wallet. NOTE: Like with any other coin or token, if you lose your wallet's recovery password, your Imperiums will be locked for ever.                     </div>
                 </collapse-faq>
 
                 <collapse-faq :selected="false" ref="UseOtherWallets">
                     <div slot="collapse-header">
-                        Can I use other wallets to store WEBD, for example Ledger Nano S, Trezor, Keep Key, etc?
+                        Can I use other wallets to store IDLL, for example Ledger Nano S, Trezor, Keep Key, etc?
                     </div>
                     <div slot="collapse-body">
-                        Yes! Now, you can download your wallet and store it on an external device and when you want to make a transaction, you can import the transaction or sign it online/offline with the wallet from the stored device. In the near future, WebDollar will also be integrated to use dedicated crypto devices (Ledger Nano S, Trezor,etc).
+                        Yes! Now, you can download your wallet and store it on an external device and when you want to make a transaction, you can import the transaction or sign it online/offline with the wallet from the stored device. In the near future, Imperium will also be integrated to use dedicated crypto devices (Ledger Nano S, Trezor,etc).
                     </div>
                 </collapse-faq>
 
@@ -219,7 +219,7 @@
                         Can I import an existing wallet into my browser?
                     </div>
                     <div slot="collapse-body">
-                        Yes, you will be able to import and export your wallet from one browser to another one. The wallet is managed by your browser, not by the WebDollar Protocol or other third parties.                    </div>
+                        Yes, you will be able to import and export your wallet from one browser to another one. The wallet is managed by your browser, not by the Imperium Protocol or other third parties.                    </div>
                 </collapse-faq>
 
                 <collapse-faq :selected="false" ref="WhatIsAvaiableBalance">
@@ -240,12 +240,12 @@
                     </div>
                 </collapse-faq>
 
-                <collapse-faq :selected="false" ref="HowDoWebDollarBountiesWork">
+                <collapse-faq :selected="false" ref="HowDoImperiumBountiesWork">
                     <div slot="collapse-header">
-                        How do WebDollar's bounties work?
+                        How do Imperium's bounties work?
                     </div>
                     <div slot="collapse-body">
-                        The WebDollar's built-in automated bounty program is scraping the available social media channels and it is giving you a score, according to the impact of your posts about WebDollar. This score will be used to split each section of the reward to all attendees. When providing your wallet for reward payments, you should post your wallet address in one of your posts from the social media account.
+                        The Imperium's built-in automated bounty program is scraping the available social media channels and it is giving you a score, according to the impact of your posts about Imperium. This score will be used to split each section of the reward to all attendees. When providing your wallet for reward payments, you should post your wallet address in one of your posts from the social media account.
                     </div>
                 </collapse-faq>
 
@@ -281,14 +281,14 @@
                         I want to help the project. Whom do I contact?
                     </div>
                     <div slot="collapse-body">
-                        WebDollar is an open source project and anyone can join and help. You can contact our general manager and after talking with him, we will come to a conclusion as to which is the best way that you can help our project.
+                        Imperium is an open source project and anyone can join and help. You can contact our general manager and after talking with him, we will come to a conclusion as to which is the best way that you can help our project.
 
                     </div>
                 </collapse-faq>
 
                 <collapse-faq :selected="false" ref="ImplementWEBDAsAPaymentOption">
                     <div slot="collapse-header">
-                        I have a business and would like to implement WEBD as a payment option. Is this possible? If so, whom should I contact?
+                        I have a business and would like to implement IDLL as a payment option. Is this possible? If so, whom should I contact?
                     </div>
                     <div slot="collapse-body">
                         Yes, it is possible. You have to get in touch with a member of our team. See the links in the team section.
@@ -300,7 +300,7 @@
                         Does it work on Android phones?
                     </div>
                     <div slot="collapse-body">
-                        Yes, it is working for Android browsers and we even have an app in Google Play Store for WebDollar.
+                        Yes, it is working for Android browsers and we even have an app in Google Play Store for Imperium.
                     </div>
                 </collapse-faq>
 

@@ -20,7 +20,7 @@
                 <a href ="https://www.youtube.com/watch?v=AO67T4jip3k" title="WebDollar presentation in Saudi Arabia" rel="noopener" target="_blank">
 
                     <img alt="Alexandru Budisteanu Saudi Arabia" title="Alexandru Budisteanu Saudi Arabia" class="lazy" data-src="/public/assets/images/media/webdollar-alexandru-budisteanu-human-machine-future.jpg">
-                    <h3>WebDollar presentation in Saudi Arabia</h3>
+                    <h3>Imperium presentation in Saudi Arabia</h3>
                     <span>Human Machine Future</span>
 
                 </a>
@@ -50,7 +50,7 @@
                 <a href ="https://www.youtube.com/watch?v=6YAEtqtL_So" title="Lead Developer" rel="noopener" target="_blank">
 
                     <img class="lazy" alt="WebDollar Alexandru Budisteanu" title="WebDollar Alexandru Budisteanu" data-src="/public/assets/images/media/webdollar-alexandru-budisteanu-d10e.jpg">
-                    <h3>WebDollar award-winning presentation</h3>
+                    <h3>Imperium award-winning presentation</h3>
                     <span>d10e</span>
 
                 </a>
@@ -70,7 +70,7 @@
                 <a href ="https://www.startupcafe.ro/idei-si-antreprenori/bitcoin-romanesc-webdollar-castigi-bani-pierzi-timp-net.htm" title="developers team" rel="noopener" target="_blank">
 
                     <img alt="WebDollar team - Alexandru Panait Cosmin Oprea Adrian Stratulat" title="WebDollar team - Alexandru Panait Cosmin Oprea Adrian Stratulat" class="lazy" data-src="/public/assets/images/media/webdollar-alexandru-panait-adrian-stratulat-oprea-cosmin.jpg">
-                    <h3>WebDollar concept interview</h3>
+                    <h3>Imperium concept interview</h3>
                     <span>Startup caffe</span>
 
                 </a>
@@ -90,7 +90,7 @@
                 <a href ="https://medium.com/@adrianmihaistratulat/why-webdollar-can-be-everything-that-bitcoin-failed-to-be-49ad5c7d51ed" rel="noopener" title="bitcoin alternative" target="_blank">
 
                     <img alt="bitcoin alternative" title="bitcoin alternative" class="lazy" data-src="/public/assets/images/media/medium1.jpg">
-                    <h3>Why WebDollar can be everthing Bitcoin failed to be</h3>
+                    <h3>Why Imperium can be everthing Bitcoin failed to be</h3>
                     <span>Medium</span>
 
                 </a>
@@ -100,7 +100,7 @@
                 <a href ="https://medium.com/@adrianmihaistratulat/not-another-ico-56cd4c6fe0c4" rel="noopener" title="cryptocurrency without ICO" target="_blank">
 
                     <img alt="cryptocurrency without ICO"  title="cryptocurrency without ICO" class="lazy" data-src="/public/assets/images/media/icofail.jpg">
-                    <h3>Why WebDollar will not have an ICO</h3>
+                    <h3>Why Imperium will not have an ICO</h3>
                     <span>Medium</span>
 
                 </a>
@@ -110,7 +110,7 @@
                 <a href ="https://medium.com/@adrianmihaistratulat/how-webdollar-will-reinvent-mining-aafde32d943" rel="noopener" title="reinventing cryptocurrency mining" target="_blank">
 
                     <img alt="reinventing cryptocurrency mining" title="reinventing cryptocurrency mining" class="lazy" data-src="/public/assets/images/media/mining.jpg">
-                    <h3>How WebDollar is reinventing mining</h3>
+                    <h3>How Imperium is reinventing mining</h3>
                     <span>Medium</span>
 
                 </a>
@@ -120,7 +120,7 @@
                 <a href ="" rel="noopener" target="_blank">
 
                     <img alt="community meetup" title="community meetup" class="lazy" data-src="/public/assets/images/media/meetup.jpg">
-                    <h3>First WebDollar Community Meetup</h3>
+                    <h3>First Imperium Community Meetup</h3>
                     <span>Romania, Bucharest</span>
 
                 </a>

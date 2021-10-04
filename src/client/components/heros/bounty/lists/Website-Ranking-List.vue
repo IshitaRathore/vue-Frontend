@@ -12,7 +12,7 @@
                 <div class="title">Post Link</div>
                 <div>Alexa Score</div>
                 <div>Score</div>
-                <div>Reward WEBD</div>
+                <div>Reward IDLL</div>
 
             </div>
 

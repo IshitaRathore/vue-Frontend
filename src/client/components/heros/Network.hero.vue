@@ -33,12 +33,12 @@
 
                 <p>
                     <span class="titlePool">Your Reward for next block:</span>
-                    <span class="minerData">600 WEBD</span>
+                    <span class="minerData">600 IDLL</span>
                 </p>
 
                 <p>
                     <span class="titlePool">Miners Reward for next block:</span>
-                    <span class="minerData">5400 WEBD</span>
+                    <span class="minerData">5400 IDLL</span>
                 </p>
 
             </div>

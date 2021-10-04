@@ -15,7 +15,7 @@
                         <div class="timeline-content">
                             <h5 class="title">WHITE PAPER DRAFT</h5>
                             <p class="description">
-                                An initial white paper was realized to describe the WebDollar protocol
+                                An initial white paper was realized to describe the Imperium protocol
                             </p>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                         <div class="timeline-content">
                             <h5 class="title">TECH HUB JS HACKATHON</h5>
                             <p class="description">
-                                An initial team was formed during the JSHacks Blockchain Hackaton to bootstrap and implement the vision behind WebDollar
+                                An initial team was formed during the JSHacks Blockchain Hackaton to bootstrap and implement the vision behind Imperium
                             </p>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                         <div class="timeline-content">
                             <h5 class="title">BUILT IN BOUNTY PROGRAM</h5>
                             <p class="description">
-                                Development of a bounty program that helped evangelists to spread the word of Webdollar worldwide.
+                                Development of a bounty program that helped evangelists to spread the word of Imperium worldwide.
                             </p>
                         </div>
                     </div>
@@ -106,7 +106,7 @@
                         <div class="timeline-content">
                             <h5 class="title">EXCHANGE LISTING</h5>
                             <p class="description">
-                                Developing the first Exchange for the WebDollar Ecosystem and creating easy to integrate API for other Exchanges
+                                Developing the first Exchange for the Imperium Ecosystem and creating easy to integrate API for other Exchanges
                             </p>
                         </div>
                     </div>

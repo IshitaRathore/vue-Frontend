@@ -3,11 +3,14 @@
 
   <HeaderLayout />
 
-  <div class="backgroundVideoWrap">
-    <video autoplay loop class="backgroundVideo">
+  <!-- <div class="backgroundimageWrap">
+    <video autoplay loop class="background">
       <source src="public/assets/video/file.mp4" type="video/mp4">
     </video>
-  </div>
+  </div> -->
+
+  
+
 
   <div id="websiteBody">
 

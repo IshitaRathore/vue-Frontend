@@ -37,7 +37,7 @@
                         <span class="teamName">Alexandru Ionut Budisteanu</span>
                         <span class="teamRole">Founder & Protocol Dev.</span>
                         <p class="description">
-                            Alexandru is a Forbes Europe 30 under 30 nominee in industry category. In 2013, he was nominated by Time Magazine as one of the most influential teens of the world. MIT named an asteroid with his name.</a>
+                            Alexandru is a Forbes Europe 30 under 30 nominee in industry category. In 2013, he was nominated by Time Magazine as one of the most influential teens of the world. MIT named an asteroid with his name.
                         </p>
                     </div>
 
@@ -114,7 +114,7 @@
                     <span class="teamName">Adrian Vladu</span>
                     <span class="teamRole">Blockchain Developer</span>
                     <p class="description">
-                        With more than 6 years of open source activity, Adrian Vladu is a seasoned full stack developer with multiple contributions for projects under the OpenStack umbrella. He manages webdollar.network, an open source blockchain explorer for WebDollar.
+                        With more than 6 years of open source activity, Adrian Vladu is a seasoned full stack developer with multiple contributions for projects under the OpenStack umbrella. He manages Imperium.network, an open source blockchain explorer for Imperium.
                     </p>
                 </div>
     </div>

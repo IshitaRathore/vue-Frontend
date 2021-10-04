@@ -4,7 +4,7 @@
 
         <h3>Oops! You can't mine on multiple tabs</h3>
 
-        <h4>Please make sure you are not mining WEBD in other browser's tab.</h4>
+        <h4>Please make sure you are not mining IDLL in other browser's tab.</h4>
 
         <img data-src="/public/assets/images/darkBrowser.png" alt="webDollar-browser" title="webDollar-browser" class="browserPng lazy">
 

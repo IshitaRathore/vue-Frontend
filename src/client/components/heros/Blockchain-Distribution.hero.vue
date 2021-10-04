@@ -54,8 +54,8 @@
                     <div id="myProgress">
                         <div id="myBar" :style="{width: this.totalAmountCoins / this.distributionProgressBarMax * 100  + '%' }"></div>
                     </div>
-                    <span class="minValue">{{this.distributionProgressBarMinString}} WEBD</span>
-                    <span class="maxValue">{{this.distributionProgressBarMaxString}} WEBD</span>
+                    <span class="minValue">{{this.distributionProgressBarMinString}} IDLL</span>
+                    <span class="maxValue">{{this.distributionProgressBarMaxString}} IDLL</span>
 
                   <div class="footer" v-show="this.currentPriceLoaded">
                     <div>
@@ -79,7 +79,7 @@
                       <span class="description">All prices shown in
                         <select v-model="coinGecko.currency" class="poolSelect">
                           <option disabled value="">Please select one</option>
-                          <option v-for="currency in coinGecko.availableCurrencies">{{ currency }}</option>
+                          <option v-bind="currency in coinGecko.availableCurrencies">{{ currency }}</option>
                         </select>
                       </span>
                       <span class="description-smaller"><sup>*</sup>Powered by CoinGecko API</span>

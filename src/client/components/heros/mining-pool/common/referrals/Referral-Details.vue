@@ -23,17 +23,17 @@
 
                 <div class="dataStatisticsItem">
                     <span class="titlePool">Potential Reward:</span>
-                    <span class="minerData">{{this.getCoins(this.referee.total)}}  WEBD</span>
+                    <span class="minerData">{{this.getCoins(this.referee.total)}}  IDLL</span>
                 </div>
 
                 <div class="dataStatisticsItem">
                     <span class="titlePool">Confirmed Reward:</span>
-                    <span class="minerData">{{this.getCoins(this.referee.confirmed)}} WEBD</span>
+                    <span class="minerData">{{this.getCoins(this.referee.confirmed)}} IDLL</span>
                 </div>
 
                 <div class="dataStatisticsItem">
                     <span class="titlePool">Total Reward Sent:</span>
-                    <span class="minerData">{{this.getCoins(this.referee.sent)}}  WEBD</span>
+                    <span class="minerData">{{this.getCoins(this.referee.sent)}}  IDLL</span>
                 </div>
 
             </div>
